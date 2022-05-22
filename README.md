@@ -9,6 +9,8 @@ A simple to do list web app that allows the user to add items on their to do lis
 - javascript
 - React Js
 
+Demo - https://astonishing-bunny-b64d73.netlify.app/
+
 # Deployment
 
 <img width="932" alt="todo front page" src="https://user-images.githubusercontent.com/105813653/169257141-ffaa2fdc-458e-4cf8-a9b9-16fa7a42c4b1.png">
